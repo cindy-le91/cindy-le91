@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **cindy-le91/cindy-le91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About Me
@@ -17,4 +17,4 @@ My primary goals are to enhance my coding skills, contribute to the open-source 
 Contact
 [LinkedIn]: [[Your LinkedIn profile](https://www.linkedin.com/in/cindy-tran-le/)https://www.linkedin.com/in/cindy-tran-le/]
 [Email]: [le.cindy.tran@gmail.com]
--->
+
